@@ -1,0 +1,19 @@
+# Java
+*.class
+*.jar
+*.log
+
+# Maven/Gradle
+target/
+build/
+.gradle
+
+# IDEs
+.idea/
+*.iml
+.settings/
+
+# OS
+.DS_Store
+
+
