@@ -1,0 +1,6 @@
+name = Tom
+age = 22
+id = 1
+name = Tom
+age = 22
+sex = true
